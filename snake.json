@@ -2,7 +2,7 @@
   "pokemon": [{
     "id": 1,
     "num": "001",
-    "name": "Corn Snake",
+    "name": "งูข้าวโพด (Corn Snake)",
     "img": "https://assets.petco.com/petco/image/upload/f_auto,q_auto/151033-Center-1",
     "type": [
       "ไม่มีพิษ"
@@ -13,7 +13,7 @@
 {
     "id": 2,
     "num": "002",
-    "name": "Rat Snake",
+    "name": "แรทสเนค (Rat Snake)",
     "img": "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.reptilesmagazine.com/content/uploads/2020/05/080a79977b9f96c52bd1692deb8cfdc2.jpg",
     "type": [
       "ไม่มีพิษ"
@@ -23,7 +23,7 @@
 {
     "id": 3,
     "num": "003",
-    "name": "Common King Snake",
+    "name": "คอมมอนคิงสเนค (Common King Snake)",
     "img": "https://images.squarespace-cdn.com/content/v1/591d131d17bffc24f111e867/1505758819258-ZB05TE1IYEOM2T5HIID1/ke17ZwdGBToddI8pDm48kEc6DKFOx3cpvkyhZQwPkJYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc53GO0vWykWK-lIOAtsaJ7vbB1JiXq7byw-6Ogo-kuNnXzR_WIuWSVqqqoqhN8EA5/Turtle+Bay+California+Common+Kingsnake.jpg",
     "type": [
       "ไม่มีพิษ"
@@ -33,7 +33,7 @@
   {
     "id": 4,
     "num": "004",
-    "name": "Milk Snake",
+    "name": "มิลล์สเนค (Milk Snake)",
     "img": "https://cdn11.bigcommerce.com/s-g64jf8ws/images/stencil/1280x1280/products/488/678/DSCN56121__63257.1390432474.JPG?c=2",
     "type": [
       "ไม่มีพิษ"
@@ -43,7 +43,7 @@
 {
     "id": 5,
     "num": "005",
-    "name": "Ball Python",
+    "name": "บอลไพธอน (Ball Python)",
     "img": "https://i.pinimg.com/originals/84/6c/57/846c573c20c6af5e9ef61e3d9301fac1.jpg",
     "type": [
       "ไม่มีพิษ"
@@ -53,7 +53,7 @@
 {
     "id": 6,
     "num": "006",
-    "name": "Rainbow boa",
+    "name": "เรนโบว์โบอา(Rainbow boa)",
     "img": "https://i.redd.it/tprzq80r2v141.jpg",
     "type": [
       "ไม่มีพิษ"
@@ -64,7 +64,7 @@
 {
     "id": 7,
     "num": "007",
-    "name": "Red tailer Boa",
+    "name": "เรดเทลโบอา (Red tailer Boa)",
     "img": "https://www.reptilefact.com/wp-content/uploads/2016/09/Red-Tailed-Boa-Full-Grown.jpg",
     "type": [
       "ไม่มีพิษ"
@@ -75,7 +75,7 @@
     "id": 8,
     "num": "008",
     "name": " งูสามเหลี่ยมหรืองูตามธาร หรืองูทับธาร หรืองูก้านปล้อง (Banded krait,Bungarus fasciatus)",
-    "img": "https://www.reptilefact.com/wp-content/uploads/2016/09/Red-Tailed-Boa-Full-Grown.jpg",
+    "img": "https://meded.psu.ac.th/binla/class05/388_581_2/Management_of_snake_bites/img/05.jpg",
     "type": [
       "มีพิษต่อระบบประสาท"
     
@@ -83,17 +83,6 @@
     },
 {
     "id": 9,
-    "num": "009",
-    "name": "งูสามเหลี่ยมหรืองูตามธาร หรืองูทับธาร หรืองูก้านปล้อง (Banded krait,Bungarus fasciatus)",
-    "img": "https://meded.psu.ac.th/binla/class05/388_581_2/Management_of_snake_bites/img/05.jpg",
-    "type": [
-      "มีพิษต่อระบบประสาท"
-    
-    ],"details" : "งูสามเหลี่ยมมีหัวกลม ลำตัวเรียวยาว ปลายหางมักทู่ บางตัวหัวแบนเล็กน้อย ลำตัวเป็นสันสามเหลี่ยมชัดเจน เลื้อยช้าแต่ว่ายน้ำได้เร็ว เป็นงูที่มีความว่องไวปราดเปรียวในน้ำ สีของลำตัวเป็นปล้องดำสลับเหลืองทั้งตัว เวลากัดไม่มีการแผ่แม่เบี้ยเหมือนงูเห่า หรืองูจงอาง"
-    },
-
-{
-    "id": 10,
     "num": "010",
     "name": "งูเห่าไทยหรืองูเห่าหม้อ (Monocled cobra, Naja kaouthia)",
     "img": "https://meded.psu.ac.th/binla/class05/388_581_2/Management_of_snake_bites/img/01.jpg",
@@ -104,7 +93,7 @@
     },
 
 {
-    "id": 11,
+    "id": 10,
     "num": "011",
     "name": "งูจงอางหรืองูบองหลา หรืองูเห่าช้าง (King cobra,Ophiophagus hannah)",
     "img": "https://meded.psu.ac.th/binla/class05/388_581_2/Management_of_snake_bites/img/04.jpg",
@@ -115,7 +104,7 @@
     },
 
 {
-    "id": 12,
+    "id": 11,
     "num": "012",
     "name": "งูแมวเซา (Siamese Russell’s viper, Daboia russelii siamensis)",
     "img": "https://meded.psu.ac.th/binla/class05/388_581_2/Management_of_snake_bites/img/08.jpg",
@@ -126,7 +115,7 @@
     },
 
 {
-    "id": 13,
+    "id": 12,
     "num": "013",
     "name": "งูเขียวหางไหม้ท้องเหลือง (White-lipped pit viper, Cryptelytrops albolabris)",
     "img": "https://meded.psu.ac.th/binla/class05/388_581_2/Management_of_snake_bites/img/10.jpg",
@@ -137,7 +126,7 @@
     },
 
 {
-    "id": 14,
+    "id": 13,
     "num": "014",
     "name": "งูทะเล",
     "img": "https://meded.psu.ac.th/binla/class05/388_581_2/Management_of_snake_bites/img/11.jpg",
